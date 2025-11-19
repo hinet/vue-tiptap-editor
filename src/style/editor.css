@@ -1,0 +1,23 @@
+.tiptap-editor {
+    border: 1px solid #eee;
+    border-radius: 6px;
+}
+
+.editor-content {
+    padding: 12px;
+}
+
+.tiptap-toolbar {
+    padding: 4px;
+    border-bottom: 1px solid #eee;
+    background-color: #fafafa;
+}
+
+.ProseMirror-focused {
+    outline: none;
+}
+
+.toolbar-btn {
+    font-size: 14px;
+    cursor: pointer;
+}
